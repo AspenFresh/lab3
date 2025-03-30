@@ -1,0 +1,15 @@
+mode: set
+lab3/main.go:26.49,27.39 1 1
+lab3/main.go:27.39,28.22 1 1
+lab3/main.go:28.22,30.4 1 1
+lab3/main.go:32.2,32.14 1 1
+lab3/main.go:36.24,38.2 1 1
+lab3/main.go:41.48,42.19 1 1
+lab3/main.go:42.19,44.3 1 1
+lab3/main.go:45.2,47.12 3 1
+lab3/main.go:51.32,59.2 5 1
+lab3/main.go:62.22,73.16 4 1
+lab3/main.go:73.16,75.3 1 0
+lab3/main.go:75.8,77.3 1 1
+lab3/main.go:79.2,79.15 1 1
+lab3/main.go:83.13,86.2 2 0
